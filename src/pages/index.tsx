@@ -3,5 +3,5 @@ export default function Home() {
     <main>
       <h1>Boilerplate</h1>
     </main>
-  );
+  )
 }
